@@ -17,7 +17,9 @@ def main():
         while change_game != 0:
             print()
             print(f"{number_list[0]} | {number_list[1]} | {number_list[2]}")
+            print(f"--+---+--")
             print(f"{number_list[3]} | {number_list[4]} | {number_list[5]}")
+            print(f"--+---+--")
             print(f"{number_list[6]} | {number_list[7]} | {number_list[8]}")
             
             turn = turn + 1
