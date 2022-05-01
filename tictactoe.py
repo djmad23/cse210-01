@@ -34,7 +34,7 @@ def main():
                 number_list[choice] = "O"
                 player = "PLAYER 2"
             else:
-                change_game == 0
+                change_game = 0
                 print("Tied game, no winners!")
                 print()
 
